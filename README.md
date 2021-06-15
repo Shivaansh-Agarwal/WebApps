@@ -1,5 +1,6 @@
 # NeogCamp Level-0
 S.No | Project | TechStack | Description
+--- | --- | --- | ---  
 1 | [Emoji Translator](https://codepen.io/shiv-1998/full/yLaedXd) | HTML, CSS, VanillaJS | A fun Web-App to add Emoji's to your English Text.
 2 | [Food-Emoji Interpreter](https://xzy5m.csb.app/) | HTML, CSS, ReactJS | My first ever Web-App developed using ReactJS. The application can be used to find the meaning of food related emojis. This app depicts my understanding about how to use ReactJS to build an application from scratch.
 3 | [My BOMOTV Recommendations](https://xzy5m.csb.app/) | ReactJS, HTML, CSS | This is a log of the books, movies, TV-Series that I've read and watched over time. It's made using React!!
