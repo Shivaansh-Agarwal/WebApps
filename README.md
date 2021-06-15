@@ -14,7 +14,7 @@ S.No. | Project | TechStack
 --- | --- | ---
 1 | [Pomodoro Timer](https://shivaansh-agarwal.github.io/WebApps/Pomodoro_Clone/) | HTML, CSS, VanillaJS
 
-#### DevChallenges.io
+# DevChallenges.io
 S.No. | Project Name | Live | Tech-Stack
 --- | --- | --- | ---   
 1 | [404 Not Found](https://github.com/Shivaansh-Agarwal/404-not-found) | [LIVE](https://shivaansh-agarwal.github.io/404-not-found/) | HTML,CSS
@@ -23,7 +23,7 @@ S.No. | Project Name | Live | Tech-Stack
 4 | [Recipe Page](https://github.com/Shivaansh-Agarwal/recipe-page) | [LIVE](https://recipe-page-shivaansh.netlify.app/) | ReactJS, HTML, CSS
 5(WIP) | [Edie Homepage](https://github.com/Shivaansh-Agarwal/edie-homepage) | [LIVE](https://edie-homepage-shivaansh.netlify.app/) | ReactJS, HTML, CSS
 
-#### ReactJS Practice Projects
+# ReactJS Practice Projects
 S.No | Project Name | Live | Type
 --- | --- | --- | ---
 1 | Counter | [LIVE](https://3t7ig.csb.app/) | BASIC-1
