@@ -3,7 +3,7 @@ S.No | Project | TechStack | Description
 --- | --- | --- | ---  
 1 | [Emoji Translator](https://codepen.io/shiv-1998/full/yLaedXd) | HTML, CSS, VanillaJS | A fun Web-App to add Emoji's to your English Text.
 2 | [Food-Emoji Interpreter](https://xzy5m.csb.app/) | HTML, CSS, ReactJS | My first ever Web-App developed using ReactJS. The application can be used to find the meaning of food related emojis. This app depicts my understanding about how to use ReactJS to build an application from scratch.
-3 | [My BOMOTV Recommendations](https://xzy5m.csb.app/) | ReactJS, HTML, CSS | This is a log of the books, movies, TV-Series that I've read and watched over time. It's made using React!!
+3 | [My BOMOTV Recommendations](https://0sclt.csb.app/) | ReactJS, HTML, CSS | This is a log of the books, movies, TV-Series that I've read and watched over time. It's made using React!!
 4 | [Are you a Cricket Enthusiast?](https://repl.it/@shivaansh98/neog-Mark2?embed=1&output=1#index.js) | NodeJS | Okay so you think you're a cricket enthusiast. Let's see if you answer these simple questions. It's an interesting CLI app built on NodeJs to test your cricketing knowledge.
 5 | [Funtoosh - Find a Fun Activity](https://codepen.io/shiv-1998/full/GRjgXVv) | HTML, CSS, VanillaJS | A GUI app to find a fun activity for yourself when getting bored.
 6 | [Let's see how well do you know me?](https://repl.it/@shivaansh98/neog-Mark1?embed=1&output=1#index.js) | NodeJS | Umm.. you call me your friend. Let's see if you can answer these questions about me. The project is focused on building a command-line app using NodeJS.
